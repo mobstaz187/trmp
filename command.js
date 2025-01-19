@@ -1,26 +1,18 @@
-var youtube = "https://www.youtube.com/watch?v=edIK_3GWq2w";
-var twitter = "https://x.com/astrospace_Trump";
+var youtube = "https://www.youtube.com/watch?v=nH9eIEvojgE";
+var twitter = "https://x.com/speakwithtrump";
 var contractaddress = "placeholder_for_updating";
 var password = "meow";
 var dex = "https://solscan.io";
 
 whois = [
   "<br>",
-  ".... . .-.. .-.. --- --..-- / .. / .- -- / .-.. ..- -. .- ",
-  ".-.-.- / .. / .- -- / .- / ...- . .-. -.-- / ... -- .- .-. - /",
-  "... .--. .- -.-. . / -.-. .- - .-.-.- / -- -.-- / - .. -.-. ",
-  "-.- . .-. / .. ... / .-.. ..- -. .- / .- -. -.. / .. / .-.. ..",
-  "...- . / .. -. / - .... . / ... --- .-.. .- -. .- / -... .-.. ",
-  "--- -.-. -.- -.-. .... .- .. -. .-.-.- / .... .- .. .-.. .. -.",
-  "--. / ..-. .-. --- -- / . .- .-. - .... --..-- / -- -.-- / --.",
-  "--- .- .-.. / .. ... / - --- / - .-. .- ...- . .-.. / .. -. / ",
-  "... .--. .- -.-. . .-.-.-",
+  "Barron? Oh, he is my son.",
   "<br>"
 ];
 
 dexp = [
   "<br>",
-  'Initial Contact: Dex        <a href="' + dex + '" target="_blank">solscan/2os2ekQPNM3LjTfYfdGqq4b4jdyRcX7ZkFaKCMPwrSXWDhN2tSJnVqnm73qLH4SoD6xo4mFst4KF3EyH2NW4CbRG' + '</a>',
+  'Initial Contact: Dex        <a href="' + dex + '" target="_blank">' + '</a>',
   "<br>"
 ];
 whoami = [
@@ -35,13 +27,13 @@ ca = [
   ];
 meow = [
   "<br>",
-  "contract address (Click to Copy): ticker $Trump",
-  '<a class="color1" title="Copy Text" id="text" onclick="copyElementText(this.id)">8QaLa8u13qR1CyMByyd9UGEpeQEX1pGy9rCHZ1Hrpump</a>',
+  "contract address (Click to Copy):",
+  '<a class="color1" title="Copy Text" id="text" onclick="copyElementText(this.id)"></a>',
   "<br>"
 ];
 social = [
   "<br>",
-  'twitter        <a href="' + twitter + '" target="_blank">twitter/Trumptek' + '</a>',
+  'twitter        <a href="' + twitter + '" target="_blank">twitter/speakwithtrump' + '</a>',
   "<br>"
 ];
 
