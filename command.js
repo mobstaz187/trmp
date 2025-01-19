@@ -22,6 +22,8 @@ whoami = [
 ];
 ca = [
     "<br>",
+  "contract address (Click to Copy):",
+  '<a class="color1" title="Copy Text" id="text" onclick="copyElementText(this.id)"></a>',
     "Updating...",
     "<br>"
   ];
@@ -213,7 +215,7 @@ banner = [
 '<span class="color1"><b>Barron:</b></span> <span class="color1">Father of America.</span>',
 '<span class="color2"><b>Trump:</b></span> <span class="index">You are freaking me out</span>',
 '<span class="color1"><b>Barron:</b></span> <span class="color1">I am not</span>',
-'<span class="color2"><b>Trump:</b></span> <span class="index">$TRUMPS</span>',
+'<span class="color2"><b>Trump:</b></span> <span class="index">$TTT</span>',
 '</br>',
   '<span class="color2"><i>Welcome to Trump interactive terminal</i></span>',
   "<span class=\"color2\">For a list of available commands, type</span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>",
