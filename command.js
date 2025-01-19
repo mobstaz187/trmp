@@ -23,8 +23,7 @@ whoami = [
 ca = [
     "<br>",
   "contract address (Click to Copy):",
-  '<a class="color1" title="Copy Text" id="text" onclick="copyElementText(this.id)"></a>',
-    "Updating...",
+  '<a class="color1" title="Copy Text" id="text" onclick="copyElementText(this.id)">BgjnFbpKSh63eenKKb6rgvjShvjiurg6hiEPoz62pump</a>',
     "<br>"
   ];
 meow = [
