@@ -4,8 +4,8 @@ body {
     min-height: 99%;
     width: 100%;
     min-width: 550px;
-    color: #ffffff;
-    background: #427946;
+    color: #960c25;
+    background: #ffffff;
     font-family: cursor, monospace;
     overflow-x: hidden;
   }
@@ -50,7 +50,7 @@ body {
   #command {
     cursor: text;
     height: 50px;
-    color: #ffffff;
+    color: #032566;
   }
   #liner {
     line-height: 1.3em;
@@ -60,8 +60,8 @@ body {
     opacity: 0;
   }
   #liner::before {
-    color: #ffffff;
-    content: "term@LUA:~$";
+    color: #032566;
+    content: "term@trump:~$";
   }
   #liner.password::before {
     content: "Password:";
@@ -100,22 +100,22 @@ body {
     }
   }
   .index {
-    color: #ffffff;
+    color: #002a6f;
   }
   .color2 {
-    color: #f0f0f0;
+    color: #032761;
   }
   .command {
-    color: #fcfcfc;
-    text-shadow: 0 0 5px #ffffff; 
+    color: #b90a29;
+    text-shadow: 0 0 5px #032566; 
   }
   .command1 {
     color: #a2ad73;
     text-shadow: 0 0 5px #ad9f73; 
   }
   .command2 {
-    color: #f5f5f5;
-    
+    color: #032566;
+    text-shadow: 0 0 5px #00c8ff; 
   }
   .command3 {
     color: #fda9da;

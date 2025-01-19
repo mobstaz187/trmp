@@ -57,7 +57,7 @@ function enterKey(e) {
     if (e.keyCode == 13) {
       commands.push(command.innerHTML);
       git = commands.length;
-      addLine("term@LUA:~$ " + command.innerHTML, "no-animation", 0);
+      addLine("term@trump:~$ " + command.innerHTML, "no-animation", 0);
       commander(command.innerHTML.toLowerCase());
       command.innerHTML = "";
       textarea.value = "";
@@ -92,7 +92,7 @@ function commander(cmd) {
     case "./launch.sh":
       loopLines(launch, "color2 margin", 80);
       break;
-    case "./earthorbit.sh":
+    case "./takeoff.sh":
       loopLines(earthorbit, "color2 margin", 80);
       break;
     case "missionlog":
